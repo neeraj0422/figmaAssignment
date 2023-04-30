@@ -23,11 +23,298 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+select{
+  background: #fff;
+  color: #000;
+  padding: 8px 38px 8px 16px;
+  font-size: 16px;
+  border: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 5"><polygon points="0,0 8,0 4,5"/></svg>');
+  background-position: right 16px center;
+  background-repeat: no-repeat;
+  background-size: 5px;
+}
 
 .App-link {
   color: #61dafb;
 }
+.app-title{
+fill: Solid#000000;
+font-family: Inter;
+font-style: Black;
+font-size: 24px;
+line-height: 29px;
+line-height: 100%;
+align-self: Left;
+vertical-align: Top;
+height: 61px;
+width: 119px;
+margin-left: 100px;
+margin-top: 26px;
+font-weight: bold;
+}
+.dyp{
+  height: 92px;
+width: 703px;
+left: 569px;
+top: 190px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 75px;
+font-weight: 700;
+line-height: 91px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: -81px;
+ margin-top: 190px;}
 
+.pol{
+  font-family: sans-serif;
+font-size: 66px;
+font-weight: 400;
+line-height: 91px;
+letter-spacing: 0em;
+text-align: left ;
+margin-left: 111px;
+
+font-family: Inter;
+font-size: 66px;
+font-weight: 700;
+line-height: 91px;
+letter-spacing: 0em;
+text-align: left;
+
+width: 919px;
+height: 92px;
+
+font-family: Inter;
+font-style: Mixed;
+font-size: 66px;
+line-height: 91.1px;
+
+Align: Left;
+vertical-align: Center
+
+}
+.Three666{
+  font-family: sans-serif;
+  font-size: 66px;
+  font-weight: 400;
+  line-height: 91px;
+  letter-spacing: 0em;
+  text-align: left ;
+  margin-left: -600px;
+  margin-top: 400px;
+  font-size: 28px;
+font-weight: 500;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Inter;
+font-size: 58px;
+font-weight: 600;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Inter;
+font-size: 58px;
+font-weight: 700;
+line-height: 73px;
+letter-spacing: 0em;
+text-align: left;
+height: 73px;
+width: 291px;
+left: 680px;
+top: 439.6259765625px;
+border-radius: nullpx;
+
+}
+.Fr{
+  color: 
+  #FE6D3F;
+}
+.St{
+  height: 18px;
+
+left: 680px;
+top: 390.5654296875px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 25px;
+font-weight: 300;
+line-height: 84px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: -53px;
+width: 140px;
+position: absolute;
+top: 431px;
+color: #909090;
+
+}
+.nav-link{
+  text-decoration: none;
+   color: #0D0D0D;
+;
+}
+.sb{
+
+Width:692px;
+Height:82px;
+position: absolute;
+    padding: -2px;
+    top: 590px;
+    left: 652px;
+
+}
+.sa{
+  height: 82px;
+width: 692px;
+margin: 683px;
+top: 569px;
+border-radius: 9px;
+
+}
+.ab{
+  border-right: 1px solid black;
+    height: 22px;
+    width: 1px;
+    margin-left: 34px;
+}
+span{
+  margin-left: 34px;
+}
+li{
+  list-style:none;
+  font-family: sans-serif;
+  color: #0D0D0D;
+
+}
+.trending-projects h2 {
+  font-family: Inter;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 55px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1A1A1A;
+}
+.happy-customers h2 {
+  font-family: Inter;
+  font-size: 46px;
+  font-weight: 600;
+  line-height: 55px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #1A1A1A;
+}
+
+
+.schedule-call{
+  background-color: #FE6D3F;
+ margin-top:  31px;
+ 
+margin-left: 30px;
+width: 163px;
+height: 51px;
+border-radius: 8px;
+color: #FFFFFF;
+font-family: Plus Jakarta Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+padding: 15px 23px;
+}
+.k1{
+  height: 55px;
+  width: 146px;
+  left: 352.093994140625px;
+  top: 780px;
+  border-radius: nullpx;
+  margin-left: 12%;
+  font-weight: bold;
+  font-size: 45.6px;
+
+}
+.lm{
+height: 22px;
+width: 210px;
+margin-left: 239.996552px;
+border-radius: nullpx;
+
+}
+.k2{
+  height: 55px;
+  width: 146px;
+  left: 352.093994140625px;
+  top: 780px;
+  border-radius: nullpx;
+  
+  font-weight: bold;
+  font-size: 45.6px;
+
+}
+.lm2{
+  height: 22px;
+  width: 210px;
+   border-radius: nullpx;
+   margin-left: 0px !important;
+
+  }
+  .k3{
+    height: 55px;
+    width: 146px;
+    left: 352.093994140625px;
+    top: 780px;
+    border-radius: nullpx;
+    margin-left: 28%;
+    font-weight: bold;
+    font-size: 45.6px;
+  }
+ 
+  
+  .lm3{
+    height: 22px;
+    width: 210px;
+    margin-left: 600.996552px;
+    border-radius: nullpx;
+  }
+  .lm4{
+    font-family: Inter;
+font-size: 22px;
+font-style: italic;
+font-weight: 400;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+width: 747px;
+color: #000000;
+margin-left: 50px;
+
+  }
+  
+  .lm5{
+    margin-left: 50%;
+    width: 420px;
+  }
+  .tp{
+    color: #000000;
+    font-family:sans-serif;
+font-size: 18px;
+font-weight: 500;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+
+  }
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
